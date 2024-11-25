@@ -1712,7 +1712,6 @@ Los sensores de presión piezorresistivos de Kistler son muy adecuados para eval
       <span>jose405378@gmail.com</span>
     </div>
 </div>
-</td>
 
 
 
@@ -1739,7 +1738,6 @@ Los sensores de presión piezorresistivos de Kistler son muy adecuados para eval
       <span>cota35125@gmail.com</span>
     </div>
 </div>
-</td>
 
 
 <td>
@@ -1763,11 +1761,10 @@ Los sensores de presión piezorresistivos de Kistler son muy adecuados para eval
       <span>luna7674@gmail.com</span>
     </div>
 </div>
-</td>
 
 
 
-</tr>
+
 <center>
 <tr>
   <td>
@@ -1791,7 +1788,6 @@ Los sensores de presión piezorresistivos de Kistler son muy adecuados para eval
       <span>Perla001@gmail.com</span>
     </div>
 </div>
-</td>
 
   <td>
 <div class="card">
@@ -1814,10 +1810,7 @@ Los sensores de presión piezorresistivos de Kistler son muy adecuados para eval
       <span>fuentesluis@gmail.com</span>
     </div>
 </div>
-</td>
 
-
-</center>
 
 
 
