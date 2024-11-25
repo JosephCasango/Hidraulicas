@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -1815,9 +1815,7 @@ Los sensores de presión piezorresistivos de Kistler son muy adecuados para eval
     </div>
 </div>
 </td>
-</center>
-  <tr>
-</table>
+
 
 </center>
 
