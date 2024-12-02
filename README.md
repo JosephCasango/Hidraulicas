@@ -1,4 +1,3 @@
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,13 +22,24 @@ body, html {
   background-size: cover;
 }
 
-/* Images used */
-.img1 { background-image: url("https://i.pinimg.com/736x/b2/b7/1a/b2b71a9a51ca1852a41df51a7f658c12.jpg"); }
-.img2 { background-image: url("https://i.pinimg.com/736x/9c/dc/ed/9cdced121b96194c6e52006ae6313b68.jpg"); }
-.img3 { background-image: url("https://i.pinimg.com/736x/8b/a3/8e/8ba38e12ca47ceb1f1c269a8614f3947.jpg"); }
-.img4 { background-image: url("https://i.pinimg.com/736x/29/c0/c4/29c0c41d913145f8a3d84c103127d123.jpg"); }
-.img5 { background-image: url("https://i.pinimg.com/736x/8c/c4/b1/8cc4b1d0620b72b65b465f288db558e0.jpg"); }
-.img6 { background-image: url("https://i.pinimg.com/736x/8e/64/7b/8e647bc8ae219eb6e325595c9c665fa1.jpg"); }
+.img1 { 
+  background-image: url("https://i.pinimg.com/736x/b2/b7/1a/b2b71a9a51ca1852a41df51a7f658c12.jpg"); 
+}
+.img2 { 
+  background-image: url("https://i.pinimg.com/736x/9c/dc/ed/9cdced121b96194c6e52006ae6313b68.jpg"); 
+  }
+.img3 { 
+  background-image: url("https://i.pinimg.com/736x/8b/a3/8e/8ba38e12ca47ceb1f1c269a8614f3947.jpg"); 
+  }
+.img4 { 
+  background-image: url("https://i.pinimg.com/736x/29/c0/c4/29c0c41d913145f8a3d84c103127d123.jpg"); 
+  }
+.img5 { 
+  background-image: url("https://i.pinimg.com/736x/8c/c4/b1/8cc4b1d0620b72b65b465f288db558e0.jpg"); 
+  }
+.img6 { 
+  background-image: url("https://i.pinimg.com/736x/8e/64/7b/8e647bc8ae219eb6e325595c9c665fa1.jpg"); 
+  }
 
 /* Position text in the middle of the page/image */
 .bg-text {
